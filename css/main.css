@@ -93,10 +93,41 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+* {
+    background-color: whitesmoke;
+    padding: 12px;
+}
 
+.happy {
+    text-align: center;
+    font-family: tahoma;
+    font-size: 24px;
+    background-color: lightgreen;
+    margin-bottom: 16px;
+}
 
+.heading {
+    text-align: center;
+    font-family: georgia;
+    font-size: 56px;
+    background-color: lightyellow;
+}
 
+.not-so-happy {
+    text-align: center;
+    font-family: tahoma;
+    font-size: 24px;
+    background-color: gold;
+    margin-bottom: 16px; 
+}
 
+.not-happy {
+    text-align: center;
+    font-family: tahoma;
+    font-size: 24px;
+    background-color: lightcoral;
+    margin-bottom: 16px; 
+}
 
 
 
